@@ -1,6 +1,6 @@
 {
   "name": "react-multi-segment-circle-progress",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A reusable multi-segment progress circle for React",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
