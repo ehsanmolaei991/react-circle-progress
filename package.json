@@ -1,6 +1,6 @@
 {
   "name": "react-multi-segment-circle-progress",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A reusable multi-segment progress circle for React",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -25,16 +25,16 @@
     "assets"
   ],
   "keywords": [
-  "react",
-  "progress",
-  "circle",
-  "circular-progress",
-  "multi-segment",
-  "animated",
-  "svg",
-  "gauge",
-  "dashboard",
-  "data-visualization",
-  "react-component"
-]
+    "react",
+    "progress",
+    "circle",
+    "circular-progress",
+    "multi-segment",
+    "animated",
+    "svg",
+    "gauge",
+    "dashboard",
+    "data-visualization",
+    "react-component"
+  ]
 }
