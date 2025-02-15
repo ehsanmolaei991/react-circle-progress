@@ -2,7 +2,7 @@
 
 A **flexible and reusable circular progress component** with multiple segments, customizable colors, and a smooth UI. Ideal for visualizing segmented progress bars with gaps and labels inside the circle.
 
-![Circular Progress Component](./assets/examples.png)
+[![Circular Progress Component](./assets/examples.png)](https://github.com/ehsanmolaei991/react-multi-segment-circle-progress/raw/main/assets/examples.png)
 
 ---
 
