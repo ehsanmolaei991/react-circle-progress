@@ -143,7 +143,7 @@ export default App;
 
 ## 🌎 Links
 
-- **GitHub Repository:** [github.com/your-repo](https://github.com/your-repo)
+- **GitHub Repository:** [github.com/react-multi-segment-circle-progress](https://github.com/ehsanmolaei991/react-multi-segment-circle-progress)
 - **NPM Package:** [npmjs.com/package/react-multi-segment-circle-progress](https://npmjs.com/package/react-multi-segment-circle-progress)
 
 ---
